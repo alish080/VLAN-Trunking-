@@ -21,6 +21,10 @@ This project/lab helps to understand practical implementation and understanding 
 - Download the 'vlantrunk.pdf' and '.pkt' in Cisco Packet Tracer.
 - Verify configuration using the CLI if needed.
 ---------------------------------------------------------------------------------------------------------------------
+## VIDEO Demostration
+https://youtu.be/cX9JGLUV6vs
+- Every step is done live and show everything; great way to learn and practise. 
+---------------------------------------------------------------------------------------------------------------------
 ## Tools used
 -  Cisco packet tracer
 -  Github
