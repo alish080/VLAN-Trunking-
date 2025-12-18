@@ -23,7 +23,7 @@ This project/lab helps to understand practical implementation and understanding 
 ---------------------------------------------------------------------------------------------------------------------
 ## VIDEO Demostration
 https://youtu.be/cX9JGLUV6vs
-- Every step is done live and show everything; great way to learn and practise. 
+- Every step is done live and shown everything; great way to learn and practise. 
 ---------------------------------------------------------------------------------------------------------------------
 ## Tools used
 -  Cisco packet tracer
